@@ -61,3 +61,10 @@ atmosphere model.
 
 Created by **Janin A Apurba**. © 2026 Janin A Apurba. All rights reserved.
 For the source code, email **japurba97@gmail.com**.
+
+## Follow Janin on YouTube
+
+If this project helped you, please follow and subscribe:
+
+- **Study with Janin**: [youtube.com/@studywithjanin](https://www.youtube.com/@studywithjanin)
+- **Pomodoro Study with Janin**: [youtube.com/@pomodorostudywithjanin3326](https://www.youtube.com/@pomodorostudywithjanin3326)
